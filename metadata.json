@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Cesium Flight Simulator",
+  "description": "A 3D flight simulator using CesiumJS, allowing real-time high-resolution terrain exploration and GLTF airplane rendering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
